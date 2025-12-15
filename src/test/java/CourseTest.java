@@ -4,7 +4,6 @@ import org.junit.jupiter.api.Assertions;
 import org.paul.Course;
 import org.paul.Department;
 import org.paul.Student;
-
 import java.util.ArrayList;
 import java.util.List;
 
